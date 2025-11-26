@@ -13,7 +13,6 @@ https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-us
 - [project-objectives](#project-objectives)
 - [dataset](#dataset)
 - [project-structure](#project-structure)
-- [installation](#installation)
 - [data-preparation](#data-preparation)
 - [feature-engineering](#feature-engineering)
 - [modeling-approach](#modeling-approach)
