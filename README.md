@@ -144,5 +144,5 @@ this project is released under the mit license. see LICENSE for details.
 child mind institute — problematic internet use competition (kaggle):
 https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
-literature on actigraphy and adolescent behavior (see REFERENCES.md in repo)
+literature on actigraphy and adolescent behavior (see REFERENCES.md in repo)..
 
