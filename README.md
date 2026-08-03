@@ -55,7 +55,7 @@ read csv & parquet (polars/pandas).
 
 per-id aggregation of time-series (mean/std/skew/kurtosis/enmo).
 
-non-wear detection & masking
+non-wear detection & masking.
 
 imputation: knn / simple mean/median for numeric; mode for categoricals
 
