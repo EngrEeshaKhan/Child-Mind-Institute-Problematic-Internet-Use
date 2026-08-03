@@ -65,7 +65,7 @@ save processed sets to data/processed/
 
 ## feature-engineering
 
-time-series aggregates (per-day / per-week): mean, std, max, min, pctiles
+time-series aggregates (per-day / per-week): mean, std, max, min, pctiles.
 
 derived features: bmiage, internet-hoursage, enmo-norm, sleep-efficiency
 
