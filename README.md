@@ -69,7 +69,7 @@ time-series aggregates (per-day / per-week): mean, std, max, min, pctiles.
 
 derived features: bmiage, internet-hoursage, enmo-norm, sleep-efficiency.
 
-autoencoder embedding for time-series (optional)
+autoencoder embedding for time-series (optional).
 
 feature selection via correlation thresholding & tree-based importance
 
