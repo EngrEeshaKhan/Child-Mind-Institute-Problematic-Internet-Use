@@ -117,7 +117,7 @@ missing data and imputation bias.
 
 cross-sectional data: cannot infer causality.
 
-limited demographic diversity may limit generalizability
+limited demographic diversity may limit generalizability.
 
 sensor noise and variations in wear-time may affect actigraphy features
 
