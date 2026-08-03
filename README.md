@@ -25,7 +25,7 @@ https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-us
 ---
 
 ## project-objectives
-- develop predictive models to identify youth at risk for problematic internet use (piu)
+- develop predictive models to identify youth at risk for problematic internet use (piu).
 - investigate relationships between physical activity / sleep (actigraphy) and sii
 - produce reproducible pipelines (eda → fe → models → evaluation)
 - publish a clear kaggle notebook + submission ready pipeline
