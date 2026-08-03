@@ -115,7 +115,7 @@ track oof preds and use scipy.optimize for threshold tuning
 
 missing data and imputation bias.
 
-cross-sectional data: cannot infer causality
+cross-sectional data: cannot infer causality.
 
 limited demographic diversity may limit generalizability
 
