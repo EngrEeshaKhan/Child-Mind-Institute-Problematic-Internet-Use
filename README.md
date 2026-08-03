@@ -51,7 +51,7 @@ https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-us
 ---
 ## data-preparation
 
-read csv & parquet (polars/pandas)
+read csv & parquet (polars/pandas).
 
 per-id aggregation of time-series (mean/std/skew/kurtosis/enmo)
 
