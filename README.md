@@ -59,7 +59,7 @@ non-wear detection & masking.
 
 imputation: knn / simple mean/median for numeric; mode for categoricals.
 
-save processed sets to data/processed/
+save processed sets to data/processed/.
 
 ---
 
