@@ -57,7 +57,7 @@ per-id aggregation of time-series (mean/std/skew/kurtosis/enmo).
 
 non-wear detection & masking.
 
-imputation: knn / simple mean/median for numeric; mode for categoricals
+imputation: knn / simple mean/median for numeric; mode for categoricals.
 
 save processed sets to data/processed/
 
