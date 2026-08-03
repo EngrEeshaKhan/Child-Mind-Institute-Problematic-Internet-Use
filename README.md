@@ -53,7 +53,7 @@ https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-us
 
 read csv & parquet (polars/pandas).
 
-per-id aggregation of time-series (mean/std/skew/kurtosis/enmo)
+per-id aggregation of time-series (mean/std/skew/kurtosis/enmo).
 
 non-wear detection & masking
 
