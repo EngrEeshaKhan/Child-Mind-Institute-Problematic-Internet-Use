@@ -113,7 +113,7 @@ track oof preds and use scipy.optimize for threshold tuning
 
 ## limitations
 
-missing data and imputation bias
+missing data and imputation bias.
 
 cross-sectional data: cannot infer causality
 
