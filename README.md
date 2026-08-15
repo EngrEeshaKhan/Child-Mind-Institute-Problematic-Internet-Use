@@ -125,7 +125,7 @@ sensor noise and variations in wear-time may affect actigraphy features.
 
 ## future-work
 
-ordinal regression specialized models (proportional odds).
+ordinal regression specialized models (proportional odds)
 
 end-to-end deep learning on raw actigraphy (1D-CNN / transformer).
 
