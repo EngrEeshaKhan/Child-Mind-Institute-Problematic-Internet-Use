@@ -4,7 +4,7 @@ The goal of this project is to develop a predictive model that analyzes children
 ## 📌 **Project Overview**
 
 this project analyzes and predicts problematic internet use (piu) using the child mind institute dataset
-we use sleep, activity, demographic, and survey data to build machine-learning models that classify piu risk levels
+we use sleep, activity, demographic, and survey data to build machine-learning models that classify piu risk levels.
 
 dataset:
 https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
